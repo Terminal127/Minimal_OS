@@ -11,4 +11,4 @@ This repository provides a script to build a custom Linux kernel and BusyBox use
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/custom-linux-kernel-busybox.git
+   git clone https://github.com/Terminal127/Minimal_OS/tree/main
